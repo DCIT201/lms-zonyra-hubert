@@ -1,4 +1,4 @@
-package LMS;
+package org.example;
 
 public class Book {
     private String title;         // The title of the book
