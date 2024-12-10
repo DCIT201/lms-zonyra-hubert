@@ -1,4 +1,5 @@
-package LMS;
+
+package org.example;
 
 public class Patron {
     private int id;
