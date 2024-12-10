@@ -1,4 +1,5 @@
-package LMS;
+package 
+package org.example;
 
 import java.util.ArrayList;
 
